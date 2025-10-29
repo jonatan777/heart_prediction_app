@@ -44,8 +44,7 @@ Este projeto implementa um modelo de machine learning para prever o risco de ata
 git clone https://github.com/jonatan777/heart_prediction_app.git
 cd heart_prediction_app
 
-
-    Crie um ambiente virtual (recomendado):
+2. **Crie um ambiente virtual (recomendado):**
 
 bash
 
@@ -57,7 +56,7 @@ venv\Scripts\activate
 python3 -m venv venv
 source venv/bin/activate
 
-    Instale as dependências:
+3. **Instale as dependências:**
 
 bash
 
@@ -68,7 +67,7 @@ bash
 
 pip install streamlit scikit-learn pandas numpy matplotlib seaborn shap joblib
 
-🎮 Executando a Aplicação
+4. **🎮 Executando a Aplicação:**
 
     Navegue até o diretório do projeto:
 
@@ -82,7 +81,7 @@ bash
 
 streamlit run heart_attack_improved.py
 
-    Acesse a aplicação:
+6. **Acesse a aplicação:**
 
 text
 
