@@ -44,7 +44,7 @@ Este projeto implementa um modelo de machine learning para prever o risco de ata
 git clone https://github.com/jonatan777/heart_prediction_app.git
 cd heart_prediction_app
 
-### 2. Crie um ambiente virtual (recomendado):
+2. Crie um ambiente virtual (recomendado):
 
 bash
 
