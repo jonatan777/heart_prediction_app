@@ -44,7 +44,7 @@ Este projeto implementa um modelo de machine learning para prever o risco de ata
 git clone https://github.com/jonatan777/heart_prediction_app.git
 cd heart_prediction_app
 
-2. Crie um ambiente virtual (recomendado):
+### 2. Crie um ambiente virtual (recomendado):
 
 bash
 
@@ -287,19 +287,3 @@ Jonatan
 
 ⚠️ Aviso Legal: Esta aplicação é para fins educacionais e de demonstração. Não substitui aconselhamento médico profissional. Sempre consulte um médico para questões de saúde.**
 text
-
-
-## 📋 Arquivo requirements.txt
-
-Crie também um arquivo `requirements.txt`:
-
-```txt
-streamlit>=1.28.0
-scikit-learn>=1.3.0
-pandas>=1.5.0
-numpy>=1.21.0
-matplotlib>=3.5.0
-seaborn>=0.12.0
-shap>=0.42.0
-joblib>=1.2.0
-plotly>=5.13.0
