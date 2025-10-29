@@ -93,11 +93,12 @@ text
 
 heart_prediction_app/
 │
-├── heart_attack_improved.py     # Código principal da aplicação
-├── heart.csv                    # Dataset utilizado (se disponível)
-├── model.pkl                    # Modelo treinado (gerado automaticamente)
+├── data
+│   └── heart.csv                # Dataset utilizado (se disponível)
+├── heart_attack_improved.py     # Código principal da aplicação                 
 ├── requirements.txt             # Dependências do projeto
-└── README.md                    # Este arquivo
+└── README.md
+
 
 🎯 Como Usar
 1. Página Inicial
